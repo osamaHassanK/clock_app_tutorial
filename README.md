@@ -1,4 +1,7 @@
-# clock_app_tutorial
+# clock_app_tutorial!
+
+[HOW TO CODE CLOCK IN FLUTTER](https://user-images.githubusercontent.com/87079834/217035020-8979eab8-b971-45eb-be6b-ba6931e050a7.png)
+
 
 A new Flutter project.
 
